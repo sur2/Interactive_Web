@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=LLfhY4eVwDY&t=353s
 
 ### 결과물
 
-Git 위치: https://github.com/sur2/Interactive_Web/index.html
+Git 위치: https://sur2.github.io/Interactive_Web/
